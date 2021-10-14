@@ -1,0 +1,12 @@
+body {
+    background-image: url("background.jpg");
+}
+canvas {
+    border-style: groove;
+    border-width: 10px;
+    width: 30%;
+    height: 70%;
+}
+h2 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
